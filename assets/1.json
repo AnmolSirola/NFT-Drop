@@ -1,0 +1,28 @@
+{
+    "name": "Azuki #1770",
+    "symbol": "Azk",
+    "description": "Smoking cigarette as well as her enemies.",
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "Black Pigtails"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "420"
+        },
+        {
+            "trait_type": "neck",
+            "value": "Tattoo"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
