@@ -13,12 +13,9 @@ const Hero = () => {
   return (
     <main className={styles.wrapper}>
       <div className={styles.container}>
-        <h1 className={styles.heroTitle}>Solana Monkey Business</h1>
+        <h1 className={styles.heroTitle}>Azuki Collection</h1>
         <p className={styles.heroParagraph}>
-          *This is NOT a real SMB NFT it is a clone made for learning purposes!*
-        </p>
-        <p className={styles.heroParagraph}>
-          SMB Gen2 is a collection of 5000 unique 24x24 pixels randomly generated Monkeys stored on the Solana blockchain. With their accessibility-oriented design, the monkeys' goal is to invade the blockchain and spread their community. The monkeys feature owner-exclusive advantages such as NFT ownership, as well as a community wallet useable by holders with a future on-chain voting system. The Solana Monkeys' metadata is stored on Arweave, a permanent decentralized data storage. Each monkey is generated from over 99 possible traits spread over 6 layers, with some monkeys being rarer than others. Reject humanity, return to monke.
+        The story goes that long ago, in a land shrouded in darkness and chaos, a powerful shogun sought to conquer and subjugate all who stood in his way. However, a secret society of warriors and ninjas, known as the Azuki, rose from the shadows to oppose his tyrannical rule. Trained in the arts of stealth, combat, and mysticism, the Azuki fought tirelessly to protect the innocent and preserve the balance of their world. <br></br> <br></br>Each ninja within the collection represents a different aspect of this ancient society, from the fierce and unyielding samurai to the silent and deadly assassins.          
         </p>
         <div className={styles.heroCta}>
         </div>

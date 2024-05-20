@@ -32,16 +32,11 @@ const Header = () => {
 
   return (
     <header className={styles.wrapper}>
-      {/* Your Collection logo can go inside this component */}
       <Logo />
 
       <div className={styles.container}>
         <ul className={styles.navBar}>
-          <li className={styles.navItem}>Products</li>
-          <li className={styles.navItem}>Marketplace</li>
-          <li className={styles.navItem}>Gallery</li>
         </ul>
-        {/* Wallet connect button goes here!  */}
         <WalletMultiButton />
       </div>
     </header>
