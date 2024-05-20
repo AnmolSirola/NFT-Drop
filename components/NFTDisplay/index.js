@@ -1,6 +1,6 @@
 import Image from 'next/image'
 // Convert your cache.json into data to display your nfts
-import { data } from '../../static/sample'
+import { data } from '../../static/data'
 
 const styles = {
   wrapper:

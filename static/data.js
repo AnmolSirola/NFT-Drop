@@ -7,28 +7,28 @@ export const data = {
     },
     "items": [
         {
-            "name": "SMB #3713",
-            "image_hash": "0f25cc56a5248acaff1dea34989e04c0a94a321da43e1f806eb49b8551432759",
-            "image_link": "https://arweave.net/5vDabM_CHzTKc5GVBUU8ed7co9ehmHYc97YMKKU9vwc",
-            "metadata_hash": "e737655253743262ae015ba0479ce58daa9adbfed002cd3cf21963176b553342",
-            "metadata_link": "https://arweave.net/vbyo6d-xlWEUQSOxImiHyu0AD_2Y6mW2ddHmNu6lEyY",
-            "onChain": true
-        },
+            "name": "Azuki #6944",
+            "image_hash": "\u000f%�V�$���\u001d�4��\u0004��J2\u001d�>\u001f�n���QC'Y",
+            "image_link": "https://arweave.net/0EQiQWR_mAN6hh-fuDMnHb2xukmLyk2INdyzT-Zal7o",
+            "metadata_hash": "�7eRSt2b�\u0001[�G�卪����\u0002�<�\u0019c\u0017kU3B",
+            "metadata_link": "https://arweave.net/2ekz-LPtUKfjCJxJbTFq2dlinC-vP2ryCY-CSbB7rds",
+            "onChain": false
+          },
         {
-            "name": "SMB #1001",
-            "image_hash": "9461eefa9b19f0a23b166f412d5d0825ea819237eca6f034e2b7bde43aa2b246",
-            "image_link": "https://arweave.net/E4Hd6wmYU_vOySXaR6k4fJk1vk1Vf5GKImifCQygCng",
-            "metadata_hash": "c71a54941e59b41854d3d3fdf72877fa901c11e2c9cc4cfcff20a552011696aa",
-            "metadata_link": "https://arweave.net/tHnUCWe37-8tQCWNn5m8B2BQAKfmkKbRzsUElzXeU_o",
-            "onChain": true
-        },
-        {
-            "name": "SMB #10",
-            "image_hash": "33761a265dade9a033a3c8019129c7d258f763255f1f5442e4ab295511be5959",
-            "image_link": "https://arweave.net/3Ty7S_xlHWLObEajonW3V6J6vWNtXc1nqdBGoFXj4vE",
-            "metadata_hash": "962e64f0f8c7e23924485cb8ff0e33f340f58cb7940223e21ab84df6ac20bbb7",
-            "metadata_link": "https://arweave.net/Gcmref5a2VWg1sov2S-4S0MKL-SFRjrKyWhpVtzXb9k",
-            "onChain": true
-        },
+            "name": "Azuki #1770",
+            "image_hash": "�a���\u0019�;\u0016oA-]\b%ꁒ7��4ⷽ�:��F",
+            "image_link": "https://arweave.net/dO5XagdXxXS0Q_8plfBVKh5o_u7rU73qS85czbWTB8E",
+            "metadata_hash": "�\u001aT�\u001eY�\u0018T����(w��\u001c\u0011���L�� �R\u0001\u0016��",
+            "metadata_link": "https://arweave.net/yyjYp7XflLbdc5Z0ea6jzRy_dsUet9fJU2DIwdMfvx8",
+            "onChain": false
+          },
+          {
+            "name": "Azuki #1240",
+            "image_hash": "3v\u001a&]��3��\u0001�)��X�c%_\u001fTB�)U\u0011�YY",
+            "image_link": "https://arweave.net/QwTt8n4ZU5nbQ9Hq_ZM1LquYeHy97TZrOEK2tAV_3lE",
+            "metadata_hash": "�.d����9$H\\��\u000e3�@����\u0002#�\u001a�M�� ��",
+            "metadata_link": "https://arweave.net/Cos17ZINps64KIqbzCnMy5DhxN8B7INqWC9IzCL_6UA",
+            "onChain": false
+          }  
     ]
 }
