@@ -1,5 +1,5 @@
-import Logo from './Logo'
-import { WalletMultiButton } from '@solana/wallet-adapter-react-ui'
+import Logo from './Logo';
+import { WalletMultiButton } from '@solana/wallet-adapter-react-ui';
 
 const styles = {
   wrapper: 'flex items-center space-x-10',
